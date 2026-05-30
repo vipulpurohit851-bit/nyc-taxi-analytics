@@ -204,7 +204,7 @@ nyc-taxi-analytics/
 
 ## 👨‍💻 Author
 
-**Vipul Purohit**
+**Vipul RajPurohit**
 BCA Graduate | Aspiring Data Analyst
 
 🔧 **Skills:** Python | SQL | Snowflake | Tableau | Power BI | Excel
