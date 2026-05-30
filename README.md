@@ -50,5 +50,5 @@ Analyze NYC Taxi post-COVID recovery (2021–2023) across **106 Million trips** 
 ## 👨‍💻 Vipul Rajpurohit
 BCA Graduate | Aspiring Data Analyst | Open to Opportunities
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/vipul-rajpurohit-aa9b372aa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vipul-rajpurohit-aa9b372aa/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/vipulpurohit851-bit)
