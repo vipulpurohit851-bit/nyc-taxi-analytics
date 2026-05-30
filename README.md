@@ -1,7 +1,7 @@
 # 🚕 NYC Taxi Analytics 2021–2023
 ### End-to-End Data Analytics | 106 Million Trips | Python • Snowflake • SQL • Tableau
 
-![Banner](dashboard_images/dashboard1.png)
+![Banner](dashboard_images/dashboard_1_executive_overview.png)
 
 ---
 
@@ -45,28 +45,28 @@
 ### Dashboard 1 — Executive Overview
 > KPI Cards • Monthly Revenue Trend • Payment Analysis • Weekday Revenue
 
-![Dashboard 1](dashboard_images/dashboard1.png)
+![Dashboard 1](dashboard_images/dashboard_1_executive_overview.png)
 
 ---
 
 ### Dashboard 2 — Demand Analysis
 > Hourly Pattern • Rush Hour Analysis • Heatmap • Day vs Night
 
-![Dashboard 2](dashboard_images/dashboard2.png)
+![Dashboard 2](dashboard_images/dashboard_2_demand_analysis.png)
 
 ---
 
 ### Dashboard 3 — Location & Route Insights
 > Top 10 Pickup Zones • Top 10 Dropoff Zones • Top Routes by Trips & Revenue
 
-![Dashboard 3](dashboard_images/dashboard3.png)
+![Dashboard 3](dashboard_images/dashboard_3_location_route_insights.png)
 
 ---
 
 ### Dashboard 4 — Revenue Efficiency & Customer Behavior
 > Revenue Matrix • Revenue Per Mile • Tip by Borough • Payment Analysis
 
-![Dashboard 4](dashboard_images/dashboard4.png)
+![Dashboard 4](dashboard_images/dashboard_4_revenue_efficiency.png)
 
 ---
 
